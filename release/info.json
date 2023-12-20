@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "MetamagicExtendedSeekingSpell",
+      "UUID": "b3abf8d2-44af-458f-bd8d-3a0fe7dbbe66",
+      "folderName": "MetamagicExtendedSeekingSpell",
+      "Description": "Sets cost of Seeking Spell to be flat 2 Sorcery Points, per 5E.",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
